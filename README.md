@@ -8,12 +8,12 @@
 
 Especialmente interesado en el Frontend del desarrollo web, aunque altamente capacitado para desarrollar en el backend con muchas de las tecnologías punteras en el sector.
 
-El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos educativos. Si dudas, contacta a este mail: crolyx16@gmail.com).
+El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos educativos. Si dudas, contacta a este mail: csroman.dev@gmail.com).
 
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolyx16@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csroman.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-sánchez-román-1bab08323)
 
 ## ⚡ Tecnologías más usadas
